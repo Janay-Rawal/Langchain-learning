@@ -24,3 +24,5 @@ langserve
 sse-starlette
 pydantic==2.10.6
 langchain-chroma
+arxiv
+wikipedia
