@@ -26,3 +26,5 @@ pydantic==2.10.6
 langchain-chroma
 arxiv
 wikipedia
+mysql-connector-python
+sqlalchemy
