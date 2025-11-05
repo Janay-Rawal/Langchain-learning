@@ -38,3 +38,7 @@ cassio
 datasets
 tiktoken
 gradio
+pinecone-client
+pinecone-text
+pinecone-notebooks
+pinecone[grpc]
